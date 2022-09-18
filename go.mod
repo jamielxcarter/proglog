@@ -12,4 +12,5 @@ require (
 	github.com/stretchr/testify v1.8.0 // indirect
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
+	launchpad.net/gommap v0.0.0-20121012075617-000000000015 // indirect
 )
